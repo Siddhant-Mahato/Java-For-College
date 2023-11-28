@@ -1,7 +1,7 @@
 // Q: Write a Java program to accept two number from the user and calculate the average.
  
 import java.util.*;
-public class Sample {
+public class Sample2 {
     public static void main(String args[])
     {
        double a,b,sum=0,avg=0;
