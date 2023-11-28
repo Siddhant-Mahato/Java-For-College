@@ -1,7 +1,7 @@
 // Q: Write a Java program to accept two numbers from the user and calculate sum and product.
  
 import java.util.*;
-   class Sample {
+   class Sample1 {
     public static void main(String args[])
     {
         int a,b,sum=0,product=0;
