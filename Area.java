@@ -1,5 +1,6 @@
 // Q: Write a Java program to calculate the area of triangle using three sides.
- 
+
+
 import java.lang.*;
 import java.util.Scanner;
 public class Area 
